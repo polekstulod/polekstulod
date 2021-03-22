@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paul / @polekstulod
 - 👀 I’m interested in learning Data Science and Software Engineering 
 - 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on anyone 
+- 💞️ I’m looking to collaborate with anyone 
 - 📫 How to reach me ...
 
 <!---
