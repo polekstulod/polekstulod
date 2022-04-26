@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm James Paul Tulod</h1>
 <h3 align="center">A passionate IT student from Polytechnic University of the Philippines 🎓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polekstulod&label=Profile%20views&color=0e75b6&style=flat" alt="polekstulod" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=polekstulod&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="polekstulod" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polekstulod&theme=dracula" alt="polekstulod" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pauituiod" target="blank"><img src="https://img.shields.io/twitter/follow/pauituiod?logo=twitter&style=for-the-badge" alt="pauituiod" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pauituiod" target="blank"><img src="https://img.shields.io/twitter/follow/pauItuIod?logo=twitter&style=flat&color=blueviolet" alt="pauituiod" /></a> </p>
 
--   🌱 I’m currently learning **Node.js**
+-   🌱 I’m currently learning **Web Development (Node.js)**
 
--   💬 Ask me about **python, java, and javascript**
+-   💬 Ask me about **Python, Java, and Javascript**
 
 -   📫 How to reach me **paultulod@pm.me**
 
--   ⚡ Fun fact **I hate cheese 🧀 but I love pizza 🍕**
+-   ⚡ Fun fact, **I hate cheese 🧀 but I love pizza 🍕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,4 +35,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula" alt="polekstulod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
-[![GitHub Streak]()](https://git.io/streak-stats)
