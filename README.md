@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/pauituiod" target="blank"><img src="https://img.shields.io/twitter/follow/pauituiod?logo=twitter&style=for-the-badge" alt="pauituiod" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+-   🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **python, java, and javascript**
+-   💬 Ask me about **python, java, and javascript**
 
-- 📫 How to reach me **paultulod@pm.me**
+-   📫 How to reach me **paultulod@pm.me**
 
-- ⚡ Fun fact **I hate cheese 🧀 but I love pizza 🍕**
+-   ⚡ Fun fact **I hate cheese 🧀 but I love pizza 🍕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +32,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact" alt="polekstulod" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=polekstulod&show_icons=true&locale=en" alt="polekstulod" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=polekstulod&show_icons=true&locale=en&" alt="polekstulod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polekstulod&" alt="polekstulod" /></p>
-
