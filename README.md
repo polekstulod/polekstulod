@@ -40,4 +40,4 @@
 
 ### Spotify Playing
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=lqcsq0ip1sho8vqkk07yx8szh&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lqcsq0ip1sho8vqkk07yx8szh&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lqcsq0ip1sho8vqkk07yx8szh&redirect=true)
