@@ -38,5 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
 
-<h3 align="left">Spotify Playing</h3>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=lqcsq0ip1sho8vqkk07yx8szh&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true" align="left" style="width: 100%" />
+### Spotify Playing
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=lqcsq0ip1sho8vqkk07yx8szh&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)
