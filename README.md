@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/pauituiod" target="blank"><img src="https://img.shields.io/twitter/follow/pauItuIod?logo=twitter&style=flat&color=blueviolet" alt="pauituiod" /></a> </p>
 
--   🌱 I’m currently learning **Web Development (Node.js)**
+- 🌱 I’m currently learning **Web Development (Node.js)**
 
--   💬 Ask me about **Python, Java, and Javascript**
+- 💬 Ask me about **Python, Java, and Javascript**
 
--   📫 How to reach me **paultulod@pm.me**
+- 📫 How to reach me **paultulod@pm.me**
 
--   ⚡ Fun fact, **I hate cheese 🧀 but I love pizza 🍕**
+- ⚡ Fun fact, **I hate cheese 🧀 but I love pizza 🍕**
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
@@ -70,9 +70,9 @@
 <p><a href="https://www.buymeacoffee.com/paultulod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paultulod" /></a></p><br><br><br>
 
 <h3 align="left">Github Stats ⚡</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&hide=html,css" alt="polekstulod" /></p>
+<p><img align="center" src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=html,css" alt="polekstulod" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" /></p>
+<p><img align="center" src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
 
