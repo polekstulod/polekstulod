@@ -70,7 +70,7 @@
 <p><a href="https://www.buymeacoffee.com/paultulod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paultulod" /></a></p><br><br><br>
 
 <h3 align="left">Github Stats ⚡</h3>
-<p><img align="center" src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=html,css" alt="polekstulod" /></p>
+<p><img align="center" src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=html,css&exclude_repo=fms-prototype" alt="polekstulod" /></p>
 
 <p><img align="center" src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" /></p>
 
