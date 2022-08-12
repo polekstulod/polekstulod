@@ -73,7 +73,3 @@
 <p align="center"><img src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=html,css&exclude_repo=fms-prototype" alt="polekstulod" />
 <img src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lqcsq0ip1sho8vqkk07yx8szh&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lqcsq0ip1sho8vqkk07yx8szh&redirect=true)
