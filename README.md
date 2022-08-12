@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm James Paul Tulod</h1>
-<h3 align="center">A passionate IT student from Polytechnic University of the Philippines 🎓</h3>
+<h1 align="center">Hi 👋, I'm James Paul L. Tulod</h1>
+<h2 align="center">A passionate IT student from Polytechnic University of the Philippines 🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polekstulod&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="polekstulod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polekstulod&theme=dracula" alt="polekstulod" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pauituiod" target="blank"><img src="https://img.shields.io/twitter/follow/pauItuIod?logo=twitter&style=flat&color=blueviolet" alt="pauituiod" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polekstulod&theme=dracula&rank=-C" alt="polekstulod" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development (Node.js)**
 
@@ -14,6 +12,9 @@
 - 📫 How to reach me **paultulod@pm.me**
 
 - ⚡ Fun fact, **I hate cheese 🧀 but I love pizza 🍕**
+
+<h3 align="left">Support 🙏</h3>
+<p><a href="https://www.buymeacoffee.com/paultulod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paultulod" /></a></p><br><br><br>
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
@@ -26,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools ⚒️</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a> 
@@ -66,15 +67,10 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>  
 </p>
 
-<h3 align="left">Support 🙏</h3>
-<p><a href="https://www.buymeacoffee.com/paultulod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paultulod" /></a></p><br><br><br>
-
 <h3 align="left">Github Stats ⚡</h3>
-<p><img align="center" src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=html,css&exclude_repo=fms-prototype" alt="polekstulod" /></p>
-
-<p><img align="center" src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
+<p align="center"><img src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=html,css&exclude_repo=fms-prototype" alt="polekstulod" />
+<img src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
 
 ### Spotify Playing 🎧
 
