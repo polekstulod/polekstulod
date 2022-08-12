@@ -5,6 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polekstulod&theme=dracula&rank=-C" alt="polekstulod" /></a> </p>
 
+<img align="right" width="360" height="270" src="./gifs/coder.gif"/>
+
 - 🌱 I’m currently learning **Web Development (Node.js)**
 
 - 💬 Ask me about **Python, Java, and Javascript**
