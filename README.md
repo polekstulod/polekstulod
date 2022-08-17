@@ -7,7 +7,7 @@
 
 <img align="right" width="360" height="270" src="./gifs/coder.gif"/>
 
-- 🌱 I’m currently learning **Web Development (Node.js)**
+- 🌱 I’m currently learning **Web Development (Python)**
 
 - 💬 Ask me about **Python, Java, and Javascript**
 
@@ -47,6 +47,7 @@
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="jquery" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>  
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a>
@@ -70,6 +71,6 @@
 </p>
 
 <h3 align="left">Github Stats ⚡</h3>
-<p align="center"><img src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=html,css&exclude_repo=fms-prototype" alt="polekstulod" />
+<p align="center"><img src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=html,css&exclude_repo=fms-prototype,myPUPQC-UI" alt="polekstulod" />
 <img src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
