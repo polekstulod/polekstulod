@@ -126,5 +126,4 @@
 <img src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes" /></p>
