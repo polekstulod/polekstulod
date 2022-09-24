@@ -7,12 +7,12 @@
 
 <img align="right" width="360" height="270" src="./gifs/coder.gif"/>
 
-- 🌱 I’m currently learning **Web Development (Node.js)**
-
+- 🌱 I’m currently learning **React JS**
 - 💬 Ask me about **Python, Java, and Javascript**
-
+- 🏫 I'm currently a **BS Information Technology Student**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/micahvllz?tab=repositories)**
 - 📫 How to reach me **paultulod@pm.me**
-
 - ⚡ Fun fact, **I hate cheese 🧀 but I love pizza 🍕**
 
 <h3 align="left">Support 🙏</h3>
