@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Paul L. Tulod</h1>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F1FA8C&center=true&vCenter=true&width=435&lines=Hello+I'm+Paul+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%92%AB" alt="Typing SVG" /></p> 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=50fa7b&center=true&vCenter=true&width=435&lines=Hello+I'm+Paul+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%92%AB" alt="Typing SVG" /></p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polekstulod&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="polekstulod" /> </p>
 
