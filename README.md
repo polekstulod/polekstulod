@@ -66,10 +66,11 @@
                 <div align="center">
                     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a>  
                     <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="jquery" width="40" height="40"/> </a>
-                    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+                    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>  
                 </div>
                 <div align="center">
-                    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>  
+                    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+                    <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
                 </div>
             </td>
             <td>
@@ -126,7 +127,7 @@
 <p>
 
 <h3 align="left">Github Stats ⚡</h3>
-<p align="center"><img src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&count_private=true&hide=html,css&exclude_repo=fms-prototype,myPUPQC-UI" alt="polekstulod" />
+<p align="center"><img src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=8&count_private=true&hide=html,css&exclude_repo=fms-prototype,myPUPQC-UI" alt="polekstulod" />
 <img src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
 
