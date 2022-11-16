@@ -127,7 +127,7 @@
 <p>
 
 <h3 align="left">Github Stats ⚡</h3>
-<p align="center"><img src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=8&count_private=true&hide=html,css&exclude_repo=fms-prototype,myPUPQC-UI" alt="polekstulod" />
+<p align="center"><img src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=8&count_private=true&hide=html,css&exclude_repo=fms-prototype,myPUPQC-UI,sas-express-api,mypupqc-api,eunji-music-bot" alt="polekstulod" />
 <img src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
 
