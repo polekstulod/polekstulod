@@ -15,10 +15,10 @@
 - 📫 How to reach me **paultulod@pm.me**
 - ⚡ Fun fact, **I hate cheese 🧀 but I love pizza 🍕**
 
-<h3 align="left">Support 🙏</h3>
+<h2 align="left">Support 🙏</h2>
 <p><a href="https://www.buymeacoffee.com/paultulod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paultulod" /></a></p><br><br><br>
 
-<h3 align="left">Connect with me 🔗</h3>
+<h2 align="left">Connect with me 🔗</h2>
 <p align="left">
 <a href="https://stackoverflow.com/users/18997676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18997676" height="30" width="40" /></a>
 <a href="https://twitter.com/pauituiod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pauituiod" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 <a href="https://instagram.com/polekstulod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polekstulod" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stack 💻</h3>
+<h2 align="left">Tech Stack 💻</h2>
 
 <table align="center">
     <thead>
@@ -103,7 +103,7 @@
     </tbody>
 </table>
 
-<h3 align="left"> Tools ⚒️</h3>
+<h2 align="left"> Tools ⚒️</h2>
 <p align="center">
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="vscode" width="40" height="40"/> </a>  
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="vscode" width="40" height="40"/> </a>  
@@ -126,9 +126,15 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>  
 <p>
 
-<h3 align="left">Github Stats ⚡</h3>
-<p align="center"><img src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=8&count_private=true&hide=html,css&exclude_repo=fms-prototype,myPUPQC-UI,sas-express-api,mypupqc-api,eunji-music-bot" alt="polekstulod" />
-<img src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
+<h2 align="left">Github Stats ⚡</h2>
 
+<p align="center"><img src="https://github-readme-stats-polekstulod.vercel.app/api/top-langs?username=polekstulod&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&count_private=true&exclude_repo=fms-prototype,myPUPQC-UI,sas-express-api,mypupqc-api,eunji-music-bot,polekstulod.github.io,vanillajswebprojects,fiftyproj-htmlcssjs,xml-js,," alt="polekstulod" /></p>
+<p align="center">
+<img height="150" src="https://github-readme-stats-polekstulod.vercel.app/api?username=polekstulod&show_icons=true&locale=en&theme=dracula&count_private=true" alt="polekstulod" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
+
+
+[![polekstulods github activity graph](https://activity-graph.herokuapp.com/graph?username=polekstulod&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h2 align="left">Quote of the Day 🕊️</h2>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes" /></p>
