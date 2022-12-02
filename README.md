@@ -141,7 +141,7 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
 
 
-[![polekstulods github activity graph](https://activity-graph.herokuapp.com/graph?username=polekstulod&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Github Activity Graph](https://github-readme-activity-graph.polekstulod.repl.co/graph?username=polekstulod&theme=dracula)
 
 <h2 align="left">Quote of the Day 🕊️</h2>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes" /></p>
