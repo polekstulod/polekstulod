@@ -7,7 +7,7 @@
 
 <img align="right" width="360" height="270" src="./gifs/coder.gif"/>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **PHP and Azure Cloud Computing**
 - 💬 Ask me about **Python, Java, and Javascript**
 - 🏫 I'm currently a **BS Information Technology Student**
 - 👯 I’m looking to collaborate on **Open Source Projects**
