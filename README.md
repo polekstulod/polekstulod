@@ -20,11 +20,11 @@
 
 <h2 align="left">Connect with me 🔗</h2>
 <p align="left">
-<a href="https://stackoverflow.com/users/18997676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18997676" height="30" width="40" /></a>
-<a href="https://twitter.com/pauituiod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pauituiod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paultulod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/paultulod" height="30" width="40" /></a>
-<a href="https://kaggle.com/paultulod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="paultulod" height="30" width="40" /></a>
-<a href="https://m.me/jamespaultulod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/messenger.svg" alt="jamespaultulod" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paultulod" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="linkedin" height="35" width="35" /></a>
+<a href="https://discordapp.com/users/761150191663054848" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/discord.png" alt="discord" height="35" width="35" /></a>
+<a href="https://twitter.com/pauituiod" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/twitter.png" alt="twitter" height="35" width="35" /></a>
+<a href="https://m.me/jamespaultulod" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/facebook-messenger--v2.png" alt="messenger" height="35" width="35" /></a>
+<a href="https://join.skype.com/invite/wo6JowfHFR8r" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/skype.png" alt="skype" height="35" width="35" /></a>
 </p>
 
 <h2 align="left">Tech Stack 💻</h2>
