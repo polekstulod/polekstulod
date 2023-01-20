@@ -22,9 +22,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/paultulod" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="linkedin" height="35" width="35" /></a>
 <a href="https://discordapp.com/users/761150191663054848" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/discord.png" alt="discord" height="35" width="35" /></a>
-<a href="https://twitter.com/pauituiod" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/twitter.png" alt="twitter" height="35" width="35" /></a>
 <a href="https://m.me/jamespaultulod" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/facebook-messenger--v2.png" alt="messenger" height="35" width="35" /></a>
-<a href="https://join.skype.com/invite/wo6JowfHFR8r" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/skype.png" alt="skype" height="35" width="35" /></a>
+<a href="https://join.skype.com/invite/wpY3auvxmAEP" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/skype.png" alt="skype" height="35" width="35" /></a>
 </p>
 
 <h2 align="left">Tech Stack 💻</h2>
