@@ -80,7 +80,10 @@
                 </div>
                 <div align="center">
                     <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> 
+                    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a> 
                     <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg" alt="sequelize" width="40" height="40"/> </a>  
+                </div>
+                <div align="center">
                     <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40"/> </a>  
                 </div>
             </td>
