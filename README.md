@@ -7,9 +7,9 @@
 
 <img align="right" width="360" height="270" src="./gifs/coder.gif"/>
 
-- 🌱 I’m currently learning and mastering **JavaScript and Python**
+- 🌱 I’m currently learning and mastering **JavaScript and PHP**
 - 💬 Ask me about **Web Development (JavaScript)**
-- 🏫 I'm currently a **BS Information Technology Student**
+- 🏫 I'm currently a **Web Developer**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me **paultulod@pm.me**
 - ⚡ Fun fact, **I hate cheese 🧀 but I love pizza 🍕**
@@ -147,7 +147,7 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=polekstulod&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="polekstulod" /></p>
 
 
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=polekstulod&theme=dracula)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=polekstulod&theme=dracula)
 
 <h2 align="left">Quote of the Day 🕊️</h2>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes" /></p>
